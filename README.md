@@ -62,7 +62,7 @@ project-folder/
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Shikha/php.git
    ```
 
 2. Move the project folder to:
